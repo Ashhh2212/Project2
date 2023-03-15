@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+KUBIK/Content/ThirdPerson/Maps/ThirdPersonMap_2.umap
+KUBIK/Intermediate/CachedAssetRegistry.bin
+KUBIK/Saved/AutoScreenshot.png
+KUBIK/Saved/Config/WindowsEditor/Editor.ini
+KUBIK/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+KUBIK/Saved/Logs/KUBIK.log
+KUBIK/Saved/WorldPartition/StreamingGeneration-PIE-2023.03.02-10.11.52.log
